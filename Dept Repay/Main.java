@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
   int p,r,t;
-  float si,a,d,fs;
+  float si=0.0f,a,d,fs;
   cin>>p;
   cin>>r;
   cin>>t;
